@@ -1,4 +1,3 @@
 # Interfaces
-Interface Pagina do Facebook
 
-Criado para treinar tecnicas das linguagens HTML5 e CSS3.
+Criado para treinar tecnicas das linguagens HTML5, CSS3 e JS. Alguns projetos não possuem JS.
